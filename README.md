@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zarepooria
+- 👋 Hi, I’m Pooria
 - 👀 I’m interested in Pathology
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on AI projects in Medical fields.
